@@ -1,6 +1,16 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 # PumpCLI
+
+```
+  ____                                 ____   _       ___ 
+ |  _ \   _   _   _ __ ___    _ __    / ___| | |     |_ _|
+ | |_) | | | | | | '_ ` _ \  | '_ \  | |     | |      | | 
+ |  __/  | |_| | | | | | | | | |_) | | |___  | |___   | | 
+ |_|      \__,_| |_| |_| |_| | .__/   \____| |_____| |___|
+                             |_|                          
+```
+
 With this CLI, the newly created `pump.fun` tokens can be queried via `pumpportal.fun`. This demo application currently maintains the connection for only one minute.
 
 ## Features:
